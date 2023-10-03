@@ -1,2 +1,2 @@
 # kamal
-lotuuu
+lotuu
